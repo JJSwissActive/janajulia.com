@@ -105,7 +105,7 @@ Netlify macht die Website öffentlich erreichbar. Jede Änderung hier auf GitHub
 ## 4. Gut zu wissen
 
 - **Änderungen bündeln:** Jedes «Commit changes» veröffentlicht die Seite neu. Der kostenlose Netlify-Plan hat ein monatliches Kontingent – mehrere Resultate also lieber **auf einmal** eintragen.
-- **Google:** In der Datei `_headers` steht oben ein **Suchmaschinen-Schalter**. Solange die zwei Zeilen dort aktiv sind, nimmt Google die Seite nicht auf. Sie werden zum offiziellen Start entfernt.
+- **Google:** Die Seite ist für Suchmaschinen freigegeben (Sitemap: `https://janajulia.com/sitemap.xml`). Für Statistiken zur Google-Suche die **Google Search Console** verwenden – sie braucht keinen Cookie-Banner.
 - **Datenschutz:** Die Seite verwendet **keine Cookies und kein Tracking** und lädt nichts von Drittanbietern (auch die Schriften liegen auf dem eigenen Server). Darum braucht es **keinen Cookie-Banner** – auch die Google Search Console ändert daran nichts.
 - **Impressum & Datenschutz** stehen in `impressum.html`.
 - **Hilfe:** Mitarbeitende mit Zugriff (GitHub → Settings → Collaborators) können Änderungen direkt hier vornehmen.
