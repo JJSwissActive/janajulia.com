@@ -97,6 +97,7 @@ Netlify macht die Website öffentlich erreichbar. Jede Änderung hier auf GitHub
 | Presse (gross, Klick) | `assets/images/medien/gross/medien-01.webp` … `-04.webp` | ganzer Artikel, gut lesbar |
 | Instagram | `assets/images/instagram/insta-01.webp` … `-06.webp` | Quadratisch (1080 × 1080) |
 | Vorschau beim Teilen | `assets/images/og-image.jpg` | 1200 × 630 (JPG) |
+| Favicon / App-Symbol | `favicon.svg`, `favicon.ico`, `apple-touch-icon.png`, `assets/icons/*` | «JJ» auf nachtblauem Kreis – für Änderungen Hilfe holen |
 
 **Neue Bilder an neuen Stellen** (z. B. ein weiterer Presseartikel, eine zusätzliche Karte) brauchen eine kleine Anpassung im Code → dafür Hilfe holen.
 
